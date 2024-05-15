@@ -38,3 +38,20 @@
 [badge-drupal]: https://img.shields.io/badge/Drupal-0678BE?style=for-the-badge&logo=drupal&logoColor=white
 [badge-nextjs]: https://img.shields.io/badge/Next_JS-000000?style=for-the-badge&logo=next.js&logoColor=white
 [badge-11ty]: https://img.shields.io/badge/11ty-222222?style=for-the-badge&logo=eleventy&logoColor=white
+
+
+## Shoutouts
+Sharing a bit of love to other developers I've worked with or admire.
+
+[Adam Paterson](https://github.com/adam-paterson) / 
+[Jake Gore](https://github.com/jakegore) / 
+[Ricky Goacher](https://github.com/rickygoacher) / 
+[Douglas Radburn](https://github.com/chickenland) / 
+[Adam Duckett](https://github.com/adamduckett) / 
+[Harry Roberts](https://github.com/csswizardry) / 
+[Tim Kadlec](https://github.com/tkadlec) / 
+[Mark Shust](https://github.com/markshust) / 
+[Bartek Igielski](https://github.com/Igloczek) / 
+[Chris Coyier](https://github.com/chriscoyier) / 
+[Sarah Drasner](https://github.com/sdras) / 
+[Rachel Andrew](https://github.com/rachelandrew)
